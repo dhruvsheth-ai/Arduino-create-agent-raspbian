@@ -1,4 +1,4 @@
-## Intsllation of Arduino Create Agent on Raspbian GNU/Linux 10 Buster:
+## Installation of Arduino Create Agent on Raspbian GNU/Linux 10 Buster:
 
 ```bash
 $ sudo apt install golang
