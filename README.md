@@ -19,3 +19,5 @@ $ nohup ./arduino-create-agent &
 ```
 
 **Thanks to Arduino Create Team for the doc**
+
+https://forum.arduino.cc/t/raspberry-pi-how-do-i-install-the-plugin-for-linux/395959/15
